@@ -1,2 +1,2 @@
 # 9-chubby
-app to track working hour, water or stretch reminds and todo-list. 
+app to remind for stretching, drink water while you immersed in coding/
